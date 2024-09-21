@@ -1,9 +1,4 @@
 # ARFind
-Here’s an updated version of the `README.md` file for your Java-based Android application:
-
----
-
-# ARFind
 
 ARFind is an augmented reality (AR) navigation tool built on Android that enhances your shopping experience by allowing you to search for products or locations using either image recognition or text-based input. The app uses a machine learning model hosted on Google Cloud and Google Maps API to identify products and guide users to nearby stores or specific destinations, displayed in real-time through an AR interface.
 
